@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ecshop，Ecmall开发参考资料总纲
+title: Ecshop,Ecmall开发参考资料总纲
 description: "Ecshop，Ecmall开发参考资料总纲"
 category: PHP
 tags: [ecshop,ecmall]

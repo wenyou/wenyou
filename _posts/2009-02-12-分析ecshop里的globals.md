@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 分析 ecshop 里的$GLOBALS
-description: "分析 ecshop 里的$GLOBALS"
+title: 分析ecshop里的GLOBALS
+description: "分析ecshop里的GLOBALS"
 category: PHP
 tags: [ecshop]
 ---
