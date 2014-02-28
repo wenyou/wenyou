@@ -1,9 +1,6 @@
 ---
 layout: post
-title: “分析 ecshop 里的$GLOBALS”
-description: "分析 ecshop 里的$GLOBALS"  
-category: PHP
-tags: [ecshop]
+title: 分析 ecshop 里的$GLOBALS
 ---
 ###分析 ecshop 里的$GLOBALS###
 <p>搞ec二次开发 或研究ec的一些网友 经常在论坛里提到 $GLOBALS['db']; $GLOBALS['ecs'];在哪定义的等帖子。 下来就$GLOBALS我说一点：</p>
