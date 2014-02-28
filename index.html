@@ -1,0 +1,12 @@
+---
+layout: default
+title: 有文章？没有？有，还是没有？...
+---
+
+<h2>{{ page.title }}<h2>
+<p>最新文章</p>
+<ul>
+	{% for post in site.posts %}
+		<li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.title }}">{{ post.title }}</a></li>
+	{% endfor %}
+</ul>
