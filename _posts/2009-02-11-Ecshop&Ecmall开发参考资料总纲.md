@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Ecshop，Ecmall开发参考资料总纲
 ---
 <p>
