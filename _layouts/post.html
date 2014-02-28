@@ -1,7 +1,23 @@
----
-layout: default
---
-<div class="post-content">
-<h1>{{ post.title }}</h1>
-{{ content }}
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>{{ page.title }}</title>
+<link href="/css/style.css" rel="stylesheet" type="text/css" media="screen" />
+</head>
+<body>
+<div class="header clear">
+<h2>欢迎您</h2>
+<p><href="/">回首页</a></p>
 </div>
+
+<div class="post-content">
+	<h1>{{ post.title }}</h1>
+        {{ content }}
+</div>
+
+<div class="footer">
+<p>作者：有文章 </p>
+</div>
+</body>
+</html>
