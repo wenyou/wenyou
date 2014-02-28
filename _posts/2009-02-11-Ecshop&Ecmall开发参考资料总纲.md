@@ -1,6 +1,9 @@
 ---
 layout: post
-title: Ecshop，Ecmall开发参考资料总纲
+title: “Ecshop，Ecmall开发参考资料总纲”
+description: "Ecshop，Ecmall开发参考资料总纲"  
+category: PHP
+tags: [ecshop,ecmall]
 ---
 <p>
 第一：模板制作参考文档：http://www.ecshop.com/template_tutorial/

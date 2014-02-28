@@ -5,9 +5,9 @@ ul li{list-style:none;}
 .header,.footer,.content-post,.content-index{width:800pt;margin:0px auto;}
 .header,.content-post,.content-index{margin-bottom:10px;}
 .header h2{width:200pt;float:left;font-size:14pt;}
-.header div{width:550pt;float:right;font-size:12pt; text-align:right;}
+.header div{width:550pt;float:right;font-size:12pt;text-align:right;}
 .content-post{font-size:12pt; line-height:16pt;}
 .content-post h1{font-size:13pt;color:#09F; text-align:center; padding-bottom:10px;}
-.footer{text-align:center;font-size:12pt; color:#999;}
+.footer{text-align:center;font-size:12pt; color:#999; margin-top:20px;}
 .content-index{line-height:16pt;}
 .content-index ul li{margin:5px 0px;}
