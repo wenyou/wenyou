@@ -1,1 +1,12 @@
-*{padding:0;margin:0;}
+*{padding:0;margin:0;font-family:"微软雅黑";}
+.clear:after {visibility:hidden; display:block;font-size:0;content:" ";clear:both;height:0;}
+.clear{zoom:1;}
+.header,.footer,.content-post,.content-index{with:1000em;margin:0px auto;}
+.header,.content-post,.content-index{margin-bottom:10px;}
+.header h2{width:300em;float:left;font-size:14em;}
+.header div{width:650em;float:right;font-size:12em;}
+.content-post{font-size:12em;}
+.content-post h1{font-size:13em;color:#09F;}
+.footer{text-align:center;font-size:12em; color:#999;}
+
+
