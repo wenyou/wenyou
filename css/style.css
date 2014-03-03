@@ -11,5 +11,5 @@ ul li{list-style:none;}
 .footer{text-align:center;font-size:12pt; color:#999; margin-top:20px;}
 .content-index{line-height:16pt;}
 .content-index ul li{margin:5px 0px;}
-pre{border:1px #CCCCCC solid; padding:1px; margin:5px;}
-pre code{background-color:#CFDCFF; padding:5px;}
+pre{border:1px #CCCCCC solid; background-color:#F5FFFE; padding:5px; margin:5px;}
+pre code{}
