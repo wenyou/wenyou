@@ -9,3 +9,9 @@ tags: [ecshop]
 <p>搞ec二次开发 或研究ec的一些网友 经常在论坛里提到 $GLOBALS['db']; $GLOBALS['ecs'];在哪定义的等帖子。 下来就$GLOBALS我说一点：</p>
 <p>想搞明白的朋友 执行 这段代码</p>
 代码:
+<pre><code>
+&lt;?php
+$xaphp = ‘合肥php服务中心’;
+echo $GLOBALS['xaphp'];
+?&gt;
+</code></pre>
