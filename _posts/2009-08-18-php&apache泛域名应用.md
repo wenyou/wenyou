@@ -23,13 +23,7 @@ tags: [php,apache,泛域名]
 	</VirtualHost>
 3、php处理
 
-	/*
-	* 代理商子网站处理
-	* DOMAIN代理商二级域名前缀 GE: coca
-	* BASEDOMAIN 网站真实域名，不带www.  EG: asia.com
-	* SITEDOMAIN 访问时网站地址，可能是二级域名，可以为： *.asia.com或www.asia.com或asia.com
-	* 代理商子网站二级域名组合形式如下： coca.asia.com
-	*/
+	
 	$site_url = $_SERVER['HTTP_HOST'];
 	$site_url = explode('.',$site_url);
 	if(count($site_url)<3)
