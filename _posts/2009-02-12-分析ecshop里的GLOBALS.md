@@ -10,10 +10,10 @@ tags: [ecshop]
 <p>想搞明白的朋友 执行 这段代码</p>
 代码:
 
-<code>
+<pre><code>
 &lt;?php
 $xaphp = ‘合肥php服务中心’;
 echo $GLOBALS['xaphp'];
 ?&gt;
-</code>
+</code></pre>
 
