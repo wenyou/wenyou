@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Apache&php&URL重写
-description: "url重写一例"
+description: "Apache php URL 重写"
 category: web
 tags: [url重写,apache,php]
 ---
