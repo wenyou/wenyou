@@ -2,7 +2,7 @@
 .clearfix:after{visibility:hidden; display:block;font-size:0;content:" ";clear:both;height:0;}
 .clearfix{zoom:1;}
 ul{padding:0;margin:5px 0px 10px 15px;}
-ul li{padding:5px; margin:0; color:#666666;}
+ul li{padding:5px 5px 5px 5px; margin:0 0 0 10px; color:#666666;}
 .header,.footer,.content-post,.content-index{width:800pt;margin:0px auto;}
 .header,.content-post,.content-index{margin-bottom:10px;}
 .header h2{width:200pt;float:left;font-size:14pt;}
